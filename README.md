@@ -1,49 +1,139 @@
-# 👨‍💻 Paulo André | Desenvolvedor Full Stack em Formação
+# 👩🏻‍💻 Paulo André
 
-Sou estudante de Análise e Desenvolvimento de Sistemas, com foco em desenvolvimento Web. Tenho experiência prática com HTML, CSS e JavaScript, além de conhecimentos em React, Node.js e MySQL.
+**`Desenvolvedor FullStack`**
 
-Busco minha primeira oportunidade na área de tecnologia para aplicar meus conhecimentos em projetos reais, aprender com profissionais experientes e contribuir para soluções digitais eficientes.
+Olá! Sou Paulo André, 22 anos, estudante de Análise e Desenvolvimento de Sistemas no SENAI. Tenho formação técnica em Informática e uso este espaço para organizar meus projetos, praticar programação e acompanhar minha evolução na área de tecnologia.
 
----
+Atualmente, estou focado em melhorar minhas habilidades em desenvolvimento web e banco de dados, sempre construindo algo novo para aprender na prática.
 
-## 🚀 Tecnologias que utilizo
+<p align="left">
+    <a title="Linkedin" href="https://www.linkedin.com/in/https://www.linkedin.com/in/paulin2z//" target="_blank">
+  <img 
+    src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"
+    alt="LinkedIn"
+  >
+</a>
+    <a href="https://github.com/paulin2z">
+        <img 
+            alt="GitHub" 
+            title="Meus Repositórios" 
+            src="https://img.shields.io/badge/Repositórios-1155ba?style=for-the-badge&logo=github&logoColor=white""
+        />
+    </a>
+<a href="https://www.instagram.com/paulinh_w?igsh=MW13NTV5bzQ5bHVudA==" target="_blank">
+<img alt="Intagram" title="Meu Intagram" src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" 
+target="_blank"></a>
+ <a href="https://discord.gg/wagxzStdcR" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
+ <a href = "mailto:contatorafaballerini@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 
-**Front-End:**  
-HTML5 • CSS3 • JavaScript (ES6+) • React • React Native • Expo
-
-**Back-End:**  
-Node.js (básico)
-
-**Banco de Dados:**  
-MySQL
-
-**Outros conhecimentos:**  
-Git • GitHub • POO • IoT (noções)
-
----
-
-## 📌 Projetos em Destaque
-
-🔹 **Sistema de Controle de Livros – Projeto voluntário**  
-Catálogo para empréstimo e devoluções de livros.  
-🔗 GitHub: https://github.com/paulin2z/Projeto_Livraria.git  
-
-🔹 **Gerenciador de Contatos – Projeto pessoal**  
-CRUD local para gestão de contatos no navegador.  
-🔗 GitHub: https://github.com/paulin2z/Gerenciador-de-Contatos.git  
-
-> Em constante evolução — novos projetos chegando!
+<div>
+</p>
 
 ---
 
-## 🎯 Objetivo
+### 🤖 Linguagens e Tecnologias
 
-Ingressar como **Desenvolvedor Full Stack Júnior** e crescer profissionalmente na área tech.
+<img 
+    align="left" 
+    alt="HTML"
+    title="HTML" 
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="CSS" 
+    title="CSS"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="JavaScript" 
+    title="JavaScript"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="TypeScript"
+    title="TypeScript" 
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="React"
+    title="React" 
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="Next.js" 
+    title="Next.js"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="Git" 
+    title="Git"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" 
+/>
 
----
+<img 
+    align="left" 
+    alt="Github" 
+    title="Github"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" 
+/>
 
-## 📬 Contato
+<img 
+    align="left" 
+    alt="Python" 
+    title="Python"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
+/>
 
-📍 Recife – PE  
-📧 paulo-filho2011@hotmail.com  
-🔗 LinkedIn: https://www.linkedin.com/in/paulo-andr%C3%A9-52b20a261/  
+<img 
+    align="left" 
+    alt="MySQL" 
+    title="MySQL"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://devicon-website.vercel.app/api/mysql/original.svg" 
+/>
+
+<br/>
+<br/>
+
+
+
+
+
+### 📊 Estatísticas
+
+<div style="display: flex; justify-content: center; gap: 10px;">
+
+  <a href="https://github.com/paulin2z">
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=paulin2z&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  </a>
+
+  <a href="https://github.com/paulin2z">
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=paulin2z&layout=compact&langs_count=8&theme=dracula"/>
+  </a>
+
+</div>
