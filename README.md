@@ -23,7 +23,6 @@ Atualmente, estou focado em melhorar minhas habilidades em desenvolvimento web e
 <a href="https://www.instagram.com/paulinh_w?igsh=MW13NTV5bzQ5bHVudA==" target="_blank">
 <img alt="Intagram" title="Meu Intagram" src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" 
 target="_blank"></a>
- <a href="https://discord.gg/wagxzStdcR" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
  <a href = "mailto:contatorafaballerini@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 
 <div>
@@ -96,7 +95,7 @@ target="_blank"></a>
     title="Github"
     width="30px" 
     style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" 
+    src="https://devicon-website.vercel.app/api/github/original.svg?color=%23FFFFFF" 
 />
 
 <img 
