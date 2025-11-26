@@ -7,13 +7,13 @@ Olá! Sou Paulo André, 22 anos, estudante de Análise e Desenvolvimento de Sist
 Atualmente, estou focado em melhorar minhas habilidades em desenvolvimento web e banco de dados, sempre construindo algo novo para aprender na prática.
 
 <p align="left">
-    <a title="Linkedin" href="https://www.linkedin.com/in/https://www.linkedin.com/in/paulin2z//" target="_blank">
+    <a title="Linkedin" href="https://www.linkedin.com/in/paulin2z/" target="_blank">
   <img 
     src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"
     alt="LinkedIn"
   >
 </a>
-    <a href="https://github.com/paulin2z">
+    <a href="https://github.com/paulin2z?tab=repositories">
         <img 
             alt="GitHub" 
             title="Meus Repositórios" 
