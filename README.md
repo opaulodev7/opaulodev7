@@ -13,7 +13,7 @@ Atualmente, estou focado em melhorar minhas habilidades em desenvolvimento web e
     alt="LinkedIn"
   >
 </a>
-    <a href="https://github.com/paulin2z?tab=repositories">
+    <a href="[https://github.com/paulin2z?tab=repositories](https://github.com/opaulodev7?tab=repositories)">
         <img 
             alt="GitHub" 
             title="Meus Repositórios" 
